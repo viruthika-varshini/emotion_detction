@@ -1,5 +1,4 @@
 from transformers import pipeline
-import gradio as gr
 
 model_checkpoint = "MuntasirHossain/RoBERTa-base-finetuned-emotion"
 
